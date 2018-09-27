@@ -1,4 +1,4 @@
-# Dexdex Monorepo
+# Dex Widget Monorepo
 
 This repository holds dexdex platform libraries.
 
